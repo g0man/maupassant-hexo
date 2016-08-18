@@ -36,12 +36,10 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+  - title: Android Stuff Booze
+    url: https://androidstuff.xyz
+  - title: 昊聪科技
+    url: http://haocong.org
 
 timeline:
   - num: 1
@@ -58,4 +56,4 @@ js: js
 css: css
 
 # Theme version
-version: 0.0.0
+version: 0.1.1
